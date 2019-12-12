@@ -1,0 +1,24 @@
+snippet cl "console.log snippet"
+console.log($1)
+endsnippet
+
+snippet base_component "base component template"
+
+import * as React from "react";
+
+export interface IProps {
+}
+
+export interface IState {
+}
+
+export class $1 extends React.Component<IProps, IState> {
+    render() {
+        return(
+         <div>
+         </div>
+        );
+    }
+}
+endsnippet
+

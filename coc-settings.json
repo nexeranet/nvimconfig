@@ -1,0 +1,20 @@
+{
+  "coc.preferences.diagnostic.errorSign": "✗",
+  "coc.preferences.diagnostic.warningSign": "⚠",
+  "coc.preferences.diagnostic.infoSign": "⸮",
+  "coc.preferences.diagnostic.hintSign": "ﯦ",
+  "coc.preferences.snippetIndicator": "☞",
+  "coc.preferences.messageLevel": "warning",
+  "coc.preferences.diagnostic.enable": true,
+  "coc.preferences.jumpCommand":"tab drop",
+  "diagnostic.displayByAle": false,
+  "vetur.validation.template": false,
+  "vetur.experimental.templateInterpolationService": false,
+  "eslint.validate": [
+      "javascript",
+      "typescript",
+      "javascriptreact",
+      "typescriptreact",
+      "vue"
+  ]
+}
