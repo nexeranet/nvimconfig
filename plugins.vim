@@ -51,7 +51,7 @@ Plug 'machakann/vim-highlightedyank'
 
 
 " ============== UI.THEME ============ "
-
+Plug 'psliwka/vim-smoothie'
 Plug 'altercation/vim-colors-solarized'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
