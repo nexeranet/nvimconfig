@@ -78,7 +78,8 @@ set lazyredraw
 
 " yank to clipboad
 if has("clipboard")
-    set clipboard=unnamed  " copy to the system clipboard
+    set clipboard+=unnamedplus
+    "set clipboard=unnamed  " copy to the system clipboard
 endif
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""

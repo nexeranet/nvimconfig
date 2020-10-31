@@ -1,6 +1,10 @@
 " ============================================================================ "
 " ===                               PLUGINS                                === "
 " ============================================================================ "
+
+
+let g:polyglot_disabled = ['vue']
+
 call plug#begin('~/.vim/plugged')
 
 "======== A collection of language packs for Vim========"
@@ -96,7 +100,8 @@ Plug 'honza/vim-snippets'
 
 " ==== FILES AND SEARCH PLUGINS ====== "
 
-Plug '/usr/local/opt/fzf'
+Plug '/usr/bin/fzf'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 Plug 'rking/ag.vim'
 
