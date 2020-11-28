@@ -7,6 +7,7 @@
   "coc.preferences.messageLevel": "warning",
   "coc.preferences.diagnostic.enable": true,
   "coc.preferences.jumpCommand":"tab drop",
+  "python.pythonPath":"python3",
   "diagnostic.displayByAle": false,
   "vetur.validation.template": false,
   "vetur.experimental.templateInterpolationService": false,
