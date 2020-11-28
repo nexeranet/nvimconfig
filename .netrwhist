@@ -1,12 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =2
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/oleh'
+let g:netrw_dirhist_5='/home/oleh/.config/nvim/.git'
+let g:netrw_dirhist_4='/home/oleh/.config/nvim'
+let g:netrw_dirhist_3='/home/oleh/.ssh'
 let g:netrw_dirhist_2='/home/oleh/code/python/money-bot/backend'
 let g:netrw_dirhist_1='/home/oleh/code/python/money-bot'
 let g:netrw_dirhist_0='/home/oleh/.steam/debian-installation'
 let g:netrw_dirhist_9='/home/oleh/.steam/debian-installation/public'
 let g:netrw_dirhist_8='/home/oleh/.steam/debian-installation'
 let g:netrw_dirhist_7='/home/oleh/.steam/debian-installation/userdata'
-let g:netrw_dirhist_6='/home/oleh/.steam/debian-installation/userdata/ac'
-let g:netrw_dirhist_5='/home/oleh/.steam/debian-installation/userdata'
-let g:netrw_dirhist_4='/home/oleh/.steam/debian-installation/userdata/87015942'
-let g:netrw_dirhist_3='/home/oleh/.steam/debian-installation/userdata'
